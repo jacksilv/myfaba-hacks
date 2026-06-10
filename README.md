@@ -1,7 +1,37 @@
 # myfaba-hacks
 A collection of tools and scripts for customizing and enhancing your MyFaba and Faba+ storytelling box. Unlock new features, personalize your experience, and dive deeper into the world of interactive storytelling with this set of user-friendly hacks and mods.
 
+# Disclaimer
+## What this is and isn't
 
+- ✅ It's for loading **your own content** onto your Faba.
+- ❌ We do **not** support or facilitate sharing the device's original songs in any way. That content **is not shared** in this repository, and it never will be.
+
+If you're looking to distribute copyrighted material, this isn't the place. The project exists to give you control over **your own audio**, nothing more.
+
+## Disclaimer
+
+This software is provided **as is**, with no warranty of any kind. By using it, you accept that you do so at your own risk.
+
+**We are not responsible if anyone's device gets banned, blocked, or bricked** as a result of using these tools. Modifying any device always carries a risk, and it's up to each person to decide whether to take it.
+
+## Faba vs. Faba+ — read this before using it
+
+- **Faba (offline version):** works entirely without an Internet connection. With this version there's **no problem** using the project: the device doesn't report anything to any server.
+
+- **Faba+ (connected version):** this version **connects to the Internet**. If you use unofficial tags and the system detects it, you **could run into trouble** (including having your device blocked).
+
+  > ⚠️ **Be very careful with Faba+.** If you're going to use unofficial content or tags, do it at your own risk and be aware that the Internet connection can expose that activity.
+
+## Quick summary
+
+| | Faba (offline) | Faba+ (online) |
+|---|---|---|
+| Internet connection | No | Yes |
+| Risk of detection | None | High if you use unofficial tags |
+| Recommendation | Use freely | Proceed with caution |
+
+# How it works?
 
 ## Create your own figure (Original Faba)
 For original FABA, you can also use [alternative implementation in python](python/README.md).
